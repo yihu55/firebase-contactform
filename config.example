@@ -1,0 +1,9 @@
+  const config={apiKey: 
+  authDomain: '',
+  projectId: '',
+  databaseURL: '',
+  storageBucket:'',
+  messagingSenderId:'',
+  appId: '',
+  }
+  export default config;
